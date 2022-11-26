@@ -82,24 +82,3 @@ uart0_putc(a);
 UART is programmed for transmitting serial data on virtual terminal
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Result :
-UART is programmed for transmitting serial data on virtual terminal  
-
-### Output screen shots :
-
